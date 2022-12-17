@@ -1,0 +1,38 @@
+h1 {
+    color: #2E7AD3;
+    font-size: 48px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+}
+
+h2 {
+    color: #104C90;
+    font-size: 32px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.blog-post {
+    background-color: #f1f1f1;
+    width: 500px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.links {
+    color: #FF8000;
+    font-weight: bold;
+}
+
+.links:focus,
+.links:hover {
+    color: #104C90;
+}
+
+img {
+    width: 450px;
+    height: 200px;
+}
